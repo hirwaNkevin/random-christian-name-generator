@@ -45,7 +45,7 @@ void main() {
 
 To run your tests run:
 
-```
+```bash
 dart test
 ```
 
